@@ -9,7 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-*.docx
+DishDash Project Documentation.docx
 
 # macOS
 .DS_Store
