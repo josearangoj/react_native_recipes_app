@@ -1,6 +1,10 @@
-# Android Example Application
+# Recipes App
 
-This is an example Android Application README to show briefly the sections your app README should contain.
+This is a recipe app designed to provide ideas to the user on what to cook. With two different kinds of search, you can find a list of random recipes if you don't know what to cook, or by using the advanced search you have specific ingredients in your stock and you want to find which recipes have those ingredients.
+
+This app was developed using react-native with android studio. Redux library implemented. Two different APIs are implemented to retrieve the recipes.
+
+<img title="" src="https://github.com/josearangoj/react_native_recipes_app/blob/main/assets/screenshots/home.png?raw=true" alt="" data-align="center" width="257">
 
 ## Installation
 
@@ -31,13 +35,10 @@ This is an example Android Application README to show briefly the sections your 
 - Single view of each recipe with more details.
 - Add/Delete My Favourites recipes.
 
+![](https://github.com/josearangoj/react_native_recipes_app/blob/main/assets/screenshots/adv_search.png?raw=true)
+
 ### My Favourites Recipes
 
 - View/Delete Favourites recipes.
 
-## Screenshots
-
-<p>
-<img src="https://github.com/josearangoj/react_native_recipes_app/blob/main/assets/screenshots/advanced_search.png?raw=true" alt="Advanced Search" width="200">
-<img src="https://github.com/josearangoj/react_native_recipes_app/blob/main/assets/screenshots/advanced_search_2.png?raw=true" alt="Advanced Search" width="200">
-</p>
+![](https://github.com/josearangoj/react_native_recipes_app/blob/main/assets/screenshots/my_favourites.png?raw=true)
